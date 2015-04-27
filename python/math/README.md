@@ -1,4 +1,4 @@
-/python/math/math/general.py
+general.py
 
 	1.Parity_judge(number)
 
@@ -20,7 +20,7 @@
 		eq: check two rational number is equal or not equal
 
 
-/python/math/math/prime.py
+prime.py
 
 	1.Prime_generate(max)
 
@@ -35,7 +35,7 @@
 		input a number, and find prime factor decomposition of this number
 
 
-/python/math/math/selection.py
+selection.py
 
 	1.Selection(number)
 
