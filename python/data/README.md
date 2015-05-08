@@ -1,18 +1,18 @@
 #Data
 
-##environment
+##Environment
 
 ```
 	ubuntu 14.04.2 LTS
 ```
 
-##language
+##Language
 
 ```
 	python
 ```
 
-##file
+##File
 
 > get_data.py
 

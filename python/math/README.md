@@ -1,42 +1,70 @@
-general.py
+#Math
 
-	1.Parity_judge(number)
+##Environment
 
-		intput a number and judge if it is a parity number
+```
+	ubuntu 14.04.2 LTS
+```
 
-	2.Gcd(number)
+##Language
 
-		input an array of numbers to find gcd
+```
+	python
+```
 
-	3.class Rational
+##File
 
-		use this class to calculate rational number
-		add, sub, mul, truediv, eq function can use
+> general.py
 
-		add: add two rational number
-		sub: sub two rational number
-		mul: multiply two rational number
-		truediv: divide two rational number
-		eq: check two rational number is equal or not equal
+- Parity_judge(number)
 
+```
+	intput a number and judge if it is a parity number
+```
 
-prime.py
+- Gcd(number)
 
-	1.Prime_generate(max)
+```
+	input an array of numbers to find gcd
+```
 
-		input a number, and create prime numbers from 2 to number
+- class Rational
 
-	2.Prime_judge(number)
+```
+	use this class to calculate rational number
+	add, sub, mul, truediv, eq function can use
 
-		input a number, and judge this number is a prime number or not
+	add: add two rational number
+	sub: sub two rational number
+	mul: multiply two rational number
+	truediv: divide two rational number
+	eq: check two rational number is equal or not equal
+```
 
-	3.Prime_factor(number)
+> prime.py
 
-		input a number, and find prime factor decomposition of this number
+- Prime_generate(max)
 
+```
+	input a number, and create prime numbers from 2 to number
+```
 
-selection.py
+- Prime_judge(number)
 
-	1.Selection(number)
+```
+	input a number, and judge this number is a prime number or not
+```
 
-		input an array of numbers, and use selection sort to put they in order
+- Prime_factor(number)
+
+```
+	input a number, and find prime factor decomposition of this number
+```
+
+> selection.py
+
+- Selection(number)
+
+```
+	input an array of numbers, and use selection sort to put they in order
+```

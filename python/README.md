@@ -1,18 +1,18 @@
 #Library
 
-##environment
+##Environment
 
 ```
 	ubuntu 14.04.2 LTS
 ```
 
-##language
+##Language
 
 ```
 	python
 ```
 
-##file
+##File
 
 > test.py
 
