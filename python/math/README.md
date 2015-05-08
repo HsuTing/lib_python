@@ -20,11 +20,9 @@
 
 ```
 	intput a number and judge if it is a parity number
-```
 
 - Gcd(number)
 
-```
 	input an array of numbers to find gcd
 ```
 
