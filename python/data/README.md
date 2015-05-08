@@ -1,4 +1,4 @@
-#data
+#Data
 
 ##environment
 
@@ -14,9 +14,9 @@
 
 ##file
 
-**1. get_data.py**
+> get_data.py
 
-- 1.From_web(url, name)
+- From_web(url, name)
 
 ```
 	input two array. one is url, and another is name.
