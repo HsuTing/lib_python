@@ -6,4 +6,4 @@ from course_selection import Course_selection
 
 key_name = ["一類"]
 key_num = [2]
-Course_selection("input.csv", "1.json", key_name, key_num, 3)
+Course_selection("input", "1", key_name, key_num, 3)
