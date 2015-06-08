@@ -1,4 +1,4 @@
-#Course selection
+#Course Selection
 
 ##Environment
 
@@ -22,6 +22,7 @@
 	csvFile is data file, and json is structure file.
 	key is filter key, which decides that which data is used.
 	answer is the number of csvFile`s column which is people`s result.
+	jsonFile is also the name of output file.
 
 	example:
 
