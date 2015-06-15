@@ -1,5 +1,5 @@
 """select algorithm"""
-def Selection(number):
+def selection(number):
 	def min(m, j):
 		if j == len(number):
 			return m

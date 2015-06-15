@@ -1,9 +1,9 @@
 """"judge parity"""
-def Parity_judge(number):
+def parityjudge(number):
 	return (number % 2)
 
 """gcd"""
-def Gcd(number):
+def GCD(number):
 	def _gcd_(m, n):
 		if n == 0:
 			return m
@@ -17,7 +17,7 @@ def Gcd(number):
 	return m
 
 """"rational number"""
-class Rational:
+class rational:
 	def __init__(self, n, d):
 		self.number = n
 		self.denom = d

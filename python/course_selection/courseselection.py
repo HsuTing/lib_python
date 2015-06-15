@@ -2,7 +2,7 @@
 import csv
 import json
 
-def Course_selection(csvFile, jsonFile, key, answer):
+def courseselection(csvFile, jsonFile, key, answer):
 	"""csv is data, json is structure"""
 	"""key is filter key"""
 	"""answer is poeple`s choice"""

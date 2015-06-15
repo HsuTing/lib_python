@@ -14,10 +14,10 @@
 
 ##File
 
-> course_selection.py
+> courseselection.py
 
 ```
-- Course_selection(csvFile, jsonFile, key, answer):
+- courseselection(csvFile, jsonFile, key, answer):
 
 	csvFile is data file, and json is structure file.
 	key is filter key, which decides that which data is used.
@@ -32,5 +32,5 @@
 				"name": "一類"
 			}
 	  	]
-		Course_selection("input", "1", key, 3)
+		courseselection("input", "1", key, 3)
 ```

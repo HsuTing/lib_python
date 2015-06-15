@@ -1,7 +1,7 @@
 import math
 
 """generate primes"""
-def Prime_generate(max):
+def primegenerate(max):
 	prime = [1] * max
 
 	for i in range(2, int(math.sqrt(max))):
@@ -13,7 +13,7 @@ def Prime_generate(max):
 	return [i for i in range(2, max) if prime[i] == 1]
 
 """judge prime"""
-def Prime_judge(number):
+def primejudge(number):
 	half = number // 2
 
 	for num in range(2, half + 1):
@@ -23,7 +23,7 @@ def Prime_judge(number):
 	return True
 
 """"prime factor"""
-def Prime_factor(number):
+def primefactor(number):
 	list = []
 	i = 0
 	primes = prime_generate(number)

@@ -1,7 +1,7 @@
 import urllib2
 
 """get data from web"""
-def From_web(url, name):
+def fromweb(url, name):
 	for i in range(0, len(url)):
 		content = urllib2.urlopen(url[i])
 		data = content.read()

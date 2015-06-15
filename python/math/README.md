@@ -17,25 +17,25 @@
 > general.py
 
 ```
-- Parity_judge(number)
+- parityjudge(number)
 
 	intput a number and judge if it is a parity number
 
 	example:
 
-		Parity_judge(100)
+		parityjudge(100)
 
-- Gcd(number)
+- GCD(number)
 
 	input an array of numbers to find gcd
 
 	example:
 
 		number = [100, 50]
-		Gcd(number)
+		GCD(number)
 	
 
-- class Rational
+- class rational
 
 	use this class to calculate rational number
 	add, sub, mul, truediv, eq function can use
@@ -48,9 +48,9 @@
 
 	example:
 
-		R1 = Ration(5, 7)
-		R2 = Ration(4, 11)
-		R3 = Ration(4, 8)
+		R1 = ration(5, 7)
+		R2 = ration(4, 11)
+		R3 = ration(4, 8)
 
 		R3 = R1 + R2
 		R3 = R1 - R2
@@ -62,35 +62,35 @@
 > prime.py
 
 ```
-- Prime_generate(max)
+- primegenerate(max)
 
 	input a number, and create prime numbers from 2 to number
 
 	example:
 
-		Prime_generate(100)
+		primegenerate(100)
 
-- Prime_judge(number)
+- primejudge(number)
 
 	input a number, and judge this number is a prime number or not
 
 	example:
 
-		Prime_judge(100)
+		primejudge(100)
 
-- Prime_factor(number)
+- primefactor(number)
 
 	input a number, and find prime factor decomposition of this number
 
 	example:
 
-		Prime_factor(100)
+		primefactor(100)
 ```
 
 > selection.py
 
 ```
-- Selection(number)
+- selection(number)
 
 	input an array of numbers, and use selection sort to put they in order
 ```

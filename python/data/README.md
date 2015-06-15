@@ -14,10 +14,10 @@
 
 ##File
 
-> get_data.py
+> getdata.py
 
 ```
-- From_web(url, name)
+- fromweb(url, name)
 
 	input two array. one is url, and another is name.
 	it will get all html from your url,
@@ -27,5 +27,5 @@
 
 		url = [	'http://opendata.epa.gov.tw/ws/Data/SGWC/?$format=xml', ]
 		name = [ 'SGWC' ]
-		From_web(url, name)
+		fromweb(url, name)
 ```
