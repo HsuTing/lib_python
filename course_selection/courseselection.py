@@ -60,7 +60,7 @@ def courseselection(csvFile, jsonFile, key, answer):
 			position = 0
 			for j in range(0, len(jsonContent["children"])):
 				for k in range(0, len(jsonContent["children"][j]["children"])):
-					if int(filterArray[i][answer][position]) == count and jsonContent["children"][j]["children"][k]["number"] != 0 and filterArray[i][answer + 1 + j] == "":
+					if int(filterArray[i][answer][position]) == count and jsonContent["children"][j]["children"][k]["number"] != 0 and filterArray[i][answer + 1 + j] == "" and jsonContent["children"][j]["children"][k]["name"] != filterArray[i][answer + 1 + j - 1]:
 						filterArray[i][answer + 1 + j] = jsonContent["children"][j]["children"][k]["name"]
 						jsonContent["children"][j]["children"][k]["number"] = int(jsonContent["children"][j]["children"][k]["number"]) - 1
 					position = position + 1
