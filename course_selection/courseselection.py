@@ -36,9 +36,9 @@ def courseselection(csvFile, jsonFile, key, answer):
 			tempNumber.append(tempNum)
 			tempCount = tempCount + int(tempNum)
 
-		"""if totoal number does not match"""
-		if tempCount != len(filterArray):
-			print "The num of this part is not equal to total num, please input again"
+		"""if totoal number does not enough"""
+		if tempCount < len(filterArray):
+			print "The num of this part is not enough, please input again"
 			print "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 			continue
 
