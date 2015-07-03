@@ -1,0 +1,172 @@
+{
+  "name": "課程",
+  "children": [
+    {
+      "name": "必修課程【一】",
+      "children": [
+        {
+          "name": "多媒體領域的相關技術與應用",
+          "information": "多媒體領域的相關技術與應用"
+        },
+        {
+          "name": "能源與材料科技LINE",
+          "information": "能源與材料科技LINE"
+        },
+        {
+          "name": "高分子與生活",
+          "information": "高分子與生活"
+        }
+      ]
+    },
+    {
+      "name": "必修課程【二】",
+      "children": [
+        {
+          "name": "呼吸生理學與基因轉殖技術",
+          "information": "呼吸生理學與基因轉殖技術"
+        },
+        {
+          "name": "你也懂復建?",
+          "information": "你也懂復建?"
+        },
+        {
+          "name": "神經解剖學",
+          "information": "神經解剖學"
+        }
+      ]
+    },
+    {
+      "name": "必修課程【三】",
+      "children": [
+        {
+          "name": "船舶系統與機電工程",
+          "information": "船舶系統與機電工程"
+        },
+        {
+          "name": "社會心理學",
+          "information": "社會心理學"
+        },
+        {
+          "name": "照亮未來的光電科技",
+          "information": "照亮未來的光電科技"
+        }
+      ]
+    },
+    {
+      "name": "跨領域課程",
+      "children": [
+        {
+          "name": "你我眼中的雙面刃-媒體的結構與功能",
+          "information": "你我眼中的雙面刃-媒體的結構與功能"
+        },
+        {
+          "name": "當工程遇上生態",
+          "information": "當工程遇上生態"
+        },
+        {
+          "name": "心中有數與胸有成竹的統計觀",
+          "information": "心中有數與胸有成竹的統計觀"
+        },
+        {
+          "name": "時與空的釐清-建築與都市、過去與未來",
+          "information": "時與空的釐清-建築與都市、過去與未來"
+        },
+        {
+          "name": "都市之美-景觀、建築與都市對話",
+          "information": "都市之美-景觀、建築與都市對話"
+        },
+        {
+          "name": "業績UP!UP!的行銷術",
+          "information": "業績UP!UP!的行銷術"
+        }
+      ]
+    },
+    {
+      "name": "通識課程",
+      "children": [
+        {
+          "name": "溝通四風格",
+          "information": "溝通四風格"
+        },
+        {
+          "name": "愛慾瘋癲與文明",
+          "information": "愛慾瘋癲與文明"
+        },
+        {
+          "name": "從醫學看生死",
+          "information": "從醫學看生死"
+        },
+        {
+          "name": "物治知多少",
+          "information": "物治知多少"
+        },
+        {
+          "name": "幸福學",
+          "information": "幸福學"
+        },
+        {
+          "name": "表演藝術與數位科技整合",
+          "information": "表演藝術與數位科技整合"
+        }
+      ]
+    },
+    {
+      "name": "實作課程【一】",
+      "children": [
+        {
+          "name": "紙飛機",
+          "information": "紙飛機"
+        },
+        {
+          "name": "紙橋承重",
+          "information": "紙橋承重"
+        },
+        {
+          "name": "血液抹片",
+          "information": "血液抹片"
+        },
+        {
+          "name": "肌貼貼紮",
+          "information": "肌貼貼紮"
+        },
+        {
+          "name": "連鎖效應",
+          "information": "連鎖效應"
+        },
+        {
+          "name": "程式設計",
+          "information": "程式設計"
+        }
+      ]
+    },
+    {
+      "name": "實作課程【二】",
+      "children": [
+        {
+          "name": "紙飛機",
+          "information": "紙飛機"
+        },
+        {
+          "name": "紙橋承重",
+          "information": "紙橋承重"
+        },
+        {
+          "name": "血液抹片",
+          "information": "血液抹片"
+        },
+        {
+          "name": "肌貼貼紮",
+          "information": "肌貼貼紮"
+        },
+        {
+          "name": "連鎖效應",
+          "information": "連鎖效應"
+        },
+        {
+          "name": "程式設計",
+          "information": "程式設計"
+        }
+      ]
+    }
+  ]
+}
